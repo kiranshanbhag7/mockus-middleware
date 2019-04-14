@@ -1,0 +1,6 @@
+.idea
+*.iml
+**/.DS_Store
+**/newrelic_agent.log
+client/dist/**
+node_modules

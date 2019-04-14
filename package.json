@@ -1,0 +1,25 @@
+{
+  "name": "mockus-middleware",
+  "version": "1.0.1",
+  "description": "A Middleware interface which helps mock API responses",
+  "main": "middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Kiran U Shanbhag",
+    "email": "shanbhag.kiran@gmail.com"
+  },
+  "keywords": [
+    "mock",
+    "middleware",
+    "mockus",
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiranshanbhag7/mockus-middleware"
+  },
+  "license": "ISC",
+  "dependencies": {}
+}
